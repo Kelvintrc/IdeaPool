@@ -13,7 +13,7 @@ The project is a blogging web application. It involves the sharing of ideas onli
 + Clone this repository and build the project using Visual Studio or any text editor of your choice.
 + If you are using the terminal cd into "IdeaPool" directory.
 + Run the following code on your terminal "pip install -r requirements.txt" to install all the project dependancies
-+ Type the following on the terminal "exportFLASK_APP=ideapool.py" and press Enter
++ Type the following on the terminal "export FLASK_APP=ideapool.py" and press Enter
 + Then, "flask run" and press Enter
 + This will open the development server and you will be able to access the project on your browser using the following address "http://127.0.0.1:5000/index"
 
